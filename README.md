@@ -4,7 +4,7 @@ Aspiring Full Stack Developer proficient in MERN stack technologies, seeking<br>
 
 # 🚀 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-d-1453aa246/) 
+[![LinkedIn Icon](https://imageurl.com/linkedin-icon.png)](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-d-1453aa246/)
 🌐 [Portfolio](https://portfolio-dynamic.netlify.app/)
 📄 [Resume](https://drive.google.com/file/d/1HbWZvYGpEBhhcd3M5s8zGrWJQF_uew-u/view?usp=drivesdk)
 
