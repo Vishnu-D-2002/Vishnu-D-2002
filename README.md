@@ -25,3 +25,4 @@ Aspiring Full Stack Developer proficient in MERN stack technologies, seeking<br>
 
 Let's build something amazing together! ✨
 
+<i class="fa-brands fa-linkedin"></i>
