@@ -28,3 +28,11 @@ Let's build something amazing together! ✨
 [![](https://visitcount.itsvg.in/api?id=Vishnu-D-2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Connect with me:
+
+Let's build something amazing together! ✨
+- 📄 [Resume](https://drive.google.com/file/d/1HbWZvYGpEBhhcd3M5s8zGrWJQF_uew-u/view?usp=drivesdk){:target="_blank"}
+- 📧 [vishnuduraisamy2002@gmail.com](mailto:vishnuduraisamy2002@gmail.com)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918778847843){:target="_blank"}
+- 🌐 [portfolio-dynamic.netlify.app](https://portfolio-dynamic.netlify.app/){:target="_blank"}
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-d-1453aa246/){:target="_blank"}
