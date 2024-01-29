@@ -11,9 +11,8 @@ Aspiring Full Stack Developer proficient in MERN stack technologies, seeking<br>
 Let's build something amazing together! ✨
 - 📄 [Resume](https://drive.google.com/file/d/1HbWZvYGpEBhhcd3M5s8zGrWJQF_uew-u/view?usp=drivesdk)
 - 📧 [vishnuduraisamy2002@gmail.com](mailto:vishnuduraisamy2002@gmail.com)
-- 📱 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918778847843)
-- 🌐 Portfolio : [portfolio-dynamic.netlify.app](https://portfolio-dynamic.netlify.app/)
-- 📁 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishnu-D-2002)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918778847843)
+- 🌐 [portfolio-dynamic.netlify.app](https://portfolio-dynamic.netlify.app/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-d-1453aa246/)
 
 
